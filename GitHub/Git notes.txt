@@ -43,6 +43,8 @@ git log                      # View commit history
 git add <file>               # Stage one file or move workspace aare to staging area
 git add .                    # Stage all files
 git commit -m "message"      # Commit with message
+git commit --amend -m "message"      # update the Commited message
+
 
 git branch                   # List branches
 git branch <name>            # Create branch
